@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋, sou o Maurício Vieira</h1>
 <h3 align="center">Amante de ciência e analise de Dados no mundo digital</h3>
 
-- 🔭 Criei um projeto que me orgulhei de ter feito [Previsor de Diabete](https://github.com/Getmnk/Previsor-Diabete-Melhor)
+- 🔭 Criei um projeto utilizando Machine Learning [Previsor de Diabete](https://github.com/Getmnk/Previsor-Diabete-Melhor)
 
 - 🌱 No momento estou aprendendo **a como criar modelos de machine learning de uma forma cada vez mais eficiente**
 
