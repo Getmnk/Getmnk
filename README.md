@@ -4,7 +4,8 @@
 - 🔭 Criei um projeto utilizando Machine Learning [Previsor de Diabete](https://github.com/Getmnk/Previsor-Diabete-Melhor)
 - 📖 Também criei um projeto de regressão logistica do Papel para este Site [Previsor de Bom Dia](https://github.com/Getmnk/Teve-um-bom-dia-hoje-/)
 
-- 🌱 No momento estou aprendendo **a como criar modelos de machine learning de uma forma cada vez mais eficiente**
+- 🌱 No momento estou aprendendo **a como criar modelos de machine learning de uma forma cada vez mais eficiente e**
+- 🔢 Entusiasta de Regressão Logistica e Linear 
 
 - 👨‍💻 Todos os meus projetos estão aqui [https://github.com/Getmnk](https://github.com/Getmnk)
 
