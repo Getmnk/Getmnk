@@ -10,7 +10,7 @@
 - 👨‍💻 Todos os meus projetos estão aqui [https://github.com/Getmnk](https://github.com/Getmnk)
 
 <h3 align="left">Connect with me:</h3>
-[Meu Linkedin](https://www.linkedin.com/in/maur%C3%ADcio-vieira-de-souza-4067051b5/)
+Meu Linkedin: https://www.linkedin.com/in/maur%C3%ADcio-vieira-de-souza-4067051b5/
 <p align="left">
 </p>
 
